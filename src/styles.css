@@ -1,0 +1,22 @@
+.Table {
+  font-family: sans-serif;
+  text-align: center;
+}
+table {
+  border: none;
+}
+th {
+  width: 70px;
+}
+.Table tr {
+  height: 70px;
+  border-right: 10px solid blue;
+  border-bottom: 10px solid blue;
+}
+td:hover {
+  cursor: pointer;
+  background: rgb(148, 172, 248);
+}
+th {
+  background: rgb(69, 248, 165);
+}
